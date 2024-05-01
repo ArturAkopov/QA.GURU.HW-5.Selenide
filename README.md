@@ -1,6 +1,6 @@
-# QA.GURU.HW-4.Selenide
-## 4. Selenide №2
-### Домашнее задание №4
+# QA.GURU.HW-5.Selenide
+## 5. Selenide №2
+### Домашнее задание №5
 
 Разработайте следующий автотест:
 1) На главной странице GitHub выберите: Меню -> Solutions -> Enterprize (с помощью команды hover для Solutions)
